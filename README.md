@@ -1,4 +1,7 @@
-# Angle - Vue
+# English Learning App
+### Teacher App
+
+### Student App
 
 ## Project setup
 ```
